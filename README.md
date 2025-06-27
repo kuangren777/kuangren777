@@ -4,10 +4,8 @@ I'm a passionate computer science enthusiast currently studying at **Fudan Unive
 
 - 🔭 **I’m currently working on**: Several open-source projects, including:
   - **[SoulByte](https://github.com/kuangren777/SoulByte)**: A powerful data processing tool for digital human ecosystems, transforming WeChat chat records into high-quality AI training datasets and personal knowledge bases.
-  - **[mutilated_text_recognition](https://github.com/kuangren777/mutilated_text_recognition)**: A deep learning project for recognizing mutilated text, utilizing Python, PyTorch, and OpenCV with attention mechanisms (1 software copyright obtained).
   - **[NexusAI-Hub](https://github.com/kuangren777/NexusAI-Hub)**: A unified platform for managing multi-provider AI models with OpenAI-compatible APIs and real-time analytics.
-  - **[ShareYourUmbrella](https://github.com/kuangren777/ShareYourUmbrella)**: An eco-friendly umbrella sharing service for urban communities.
-  - **[YunLiaoJie](https://github.com/kuangren777/YunLiaoJie)**: An instant messaging software built with Python and SQLite for modern communication and data security.
+
 
 - 🌱 **I’m currently learning**: Advanced techniques in artificial intelligence, focusing on kernel vulnerability detection, large-scale models, and MCP (Memory Corruption Protection) security.
 

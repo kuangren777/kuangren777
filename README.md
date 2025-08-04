@@ -1,4 +1,5 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=0.5&width=435&lines=Hi+There!;This+is+KuangRen777.;From+FDU.)](https://git.io/typing-svg)
+
 
 I'm a passionate computer science enthusiast currently studying at **Fudan University**. My work revolves around leveraging technology to solve real-world problems through innovative open-source projects and cutting-edge research.
 

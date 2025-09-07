@@ -16,7 +16,7 @@ I'm a passionate computer science enthusiast currently studying at **Fudan Unive
 
 - 💬 **Ask me about**: AI, deep learning, cybersecurity, or any of my open-source projects!
 
-- 📫 **How to reach me**: [admin@kr777.top](mailto:admin@kr777.top)
+- 📫 **How to reach me**: [fudan@drluo.cn](mailto:fudan@drluo.cn)
 
 - ⚡ **Fun fact**: I love bridging the gap between theoretical research and practical applications, turning complex ideas into impactful tools!
 

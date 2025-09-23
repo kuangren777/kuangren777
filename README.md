@@ -14,7 +14,7 @@ I'm a PhD student in Electronic Information at **Fudan University**, specializin
   - B.S. in Computer Science and Technology, Shanghai Maritime University
 - 🏛️ **Visiting Student**: HKUST
 - 📫 **Contact**: [fudan@drluo.cn](mailto:fudan@drluo.cn)
-- 🔗 **Connect**: [Academic Homepage](https://drluo.cn) | [Google Scholar]([https://scholar.google.com/](https://scholar.google.com/citations?user=KU8R00YAAAAJ&hl=zh-CN))
+- 🔗 **Connect**: [Academic Homepage](https://drluo.cn) | [Google Scholar](https://scholar.google.com/citations?user=KU8R00YAAAAJ&hl=zh-CN)
 
 ## 🛠️ Research & Projects
 

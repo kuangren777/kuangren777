@@ -10,7 +10,7 @@ I'm a PhD student in Electronic Information at **Fudan University**, specializin
 - 🌱 **Currently Exploring**: Advanced techniques in kernel vulnerability detection, Large Language Models, and MCP security
 - 👨‍💻 **Affiliation**: School of Computing and Intelligence Innovation, Fudan University
 - 🎓 **Education**: 
-  - PhD in Electronic Information, Fudan University (2025-Present)
+  - PhD in Artificial Intelligence, Fudan University (2025-Present)
   - B.S. in Computer Science and Technology, Shanghai Maritime University
 - 🏛️ **Visiting Student**: HKUST
 - 📫 **Contact**: [fudan@drluo.cn](mailto:fudan@drluo.cn)

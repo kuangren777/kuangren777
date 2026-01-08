@@ -28,10 +28,6 @@ I'm a PhD student in Electronic Information at **Fudan University**, specializin
 - **[NexusAI-Hub](https://github.com/kuangren777/NexusAI-Hub)**: A unified platform for managing multi-provider AI models with OpenAI-compatible APIs and real-time analytics
 - **Multi-Sensor Strategy Learning for Unmanned Vehicle Motion Decision**: Deep reinforcement learning approach with attention mechanism and multi-sensor fusion (Published in International Journal of Intelligent Networks)
 
-### 🛡️ Endogenous Security Frameworks
-
-- **Research on Endogenous Security Resilience Measurement**: Methodology for perception-decision systems (Scientia Sinica Informationis, CCF-Top Journal)
-- **An Endogenous Security-Oriented Framework for Cyber Resilience Assessment**: Comprehensive framework for critical infrastructures (Applied Science, SCI Compendex)
 
 ## 📈 Technical Skills
 

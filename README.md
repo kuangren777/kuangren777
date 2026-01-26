@@ -13,10 +13,10 @@
 
 ## About Me
 
-I'm a **PhD student** in Electronic Information at **Fudan University**, specializing in **LLM security**, **endogenous security**, and **AI-enabled traditional security** research. My work focuses on bridging theoretical research with practical applications in artificial intelligence and cybersecurity.
+I'm a **PhD student** in Electronic Information at **Fudan University**, specializing in **Safety & Privacy**, **Large Language Models Safety**, and **Agent Safety** research. My work focuses on bridging theoretical research with practical applications in artificial intelligence and cybersecurity.
 
 - **Current Research**: LLM Security, Endogenous Security, AI-enabled Traditional Security
-- **Exploring**: Kernel vulnerability detection, Large Language Models, MCP security
+- **Exploring**: Safety & Privacy, Large Language Models Safety, Agent Safety
 - **Education**: PhD @ Fudan University (2025-Present) | B.S. @ Shanghai Maritime University
 - **Visiting Student**: HKUST
 

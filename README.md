@@ -24,7 +24,6 @@ PhD student at **Fudan University**, visiting student at **HKUST**. I study how 
 | Project | Description |
 |---------|-------------|
 | [**TIPExploit**](https://github.com/kuangren777/TIPExploit) | Empirical risk assessment of tool-invocation prompts in LLM agentic systems *(Under Review)* |
-| [**HoneyPot**](https://github.com/kuangren777/HoneyPot) | Attention honeypot experiments and Phase 0 validation artifacts |
 | [**syzkaller (fork)**](https://github.com/kuangren777/syzkaller) | Kernel fuzzer enhanced with LLM-assisted mutation for improved coverage |
 
 ### AI Tools & Infrastructure
@@ -32,6 +31,7 @@ PhD student at **Fudan University**, visiting student at **HKUST**. I study how 
 | Project | Description | Stars |
 |---------|-------------|-------|
 | [**Agent-Your-Agent**](https://github.com/kuangren777/agent-your-agent) | Multi-agent orchestration framework — routes tasks to the best model (Claude/Deepseek/GPT) via file-system protocol | ![](https://img.shields.io/github/stars/kuangren777/agent-your-agent?style=flat-square) |
+| [**agent-forge**](https://github.com/kuangren777/agent-forge) | Workbench to forge and govern enterprise AI agents — capability-scoped operations, dataflow visualization, full action auditing (CaMeL dual-LLM pattern) | ![](https://img.shields.io/github/stars/kuangren777/agent-forge?style=flat-square) |
 | [**SoulByte**](https://github.com/kuangren777/SoulByte) | Transform WeChat chat records into AI training datasets and personal knowledge bases | ![](https://img.shields.io/github/stars/kuangren777/SoulByte?style=flat-square) |
 | [**NexusAI-Hub**](https://github.com/kuangren777/NexusAI-Hub) | Unified platform for managing multi-provider AI models with OpenAI-compatible APIs | ![](https://img.shields.io/github/stars/kuangren777/NexusAI-Hub?style=flat-square) |
 | [**llm-roundtable**](https://github.com/kuangren777/llm-roundtable) | Multi-LLM structured debate platform — moderator/expert/critic agent roles | ![](https://img.shields.io/github/stars/kuangren777/llm-roundtable?style=flat-square) |

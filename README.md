@@ -73,8 +73,8 @@ Everything I research, I also ship. The agent infrastructure below runs my own d
 ---
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kuangren777&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kuangren777&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kuangren777&theme=tokyonight"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kuangren777&theme=tokyonight"/>
 </p>
 
 <p align="center">

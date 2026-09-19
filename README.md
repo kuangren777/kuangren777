@@ -1,14 +1,14 @@
-&lt;h1 align="center"&gt;
-  &lt;img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=640&lines=Hi+There!+%F0%9F%91%8B;I'm+Mingyu+Luo;PhD+Student+%40+Fudan+University;Founder+%40+Nodexi+Agentics%2C+LLC;LLM+%26+Agent+Security+Researcher;Building+General+%26+Safe+Agentic+Intelligence" alt="Typing SVG" /&gt;
-&lt;/h1&gt;
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=640&lines=Hi+There!+%F0%9F%91%8B;I'm+Mingyu+Luo;PhD+Student+%40+Fudan+University;Founder+%40+Nodexi+Agentics%2C+LLC;LLM+%26+Agent+Security+Researcher;Building+General+%26+Safe+Agentic+Intelligence" alt="Typing SVG" />
+</h1>
 
-&lt;p align="center"&gt;
-  &lt;a href="https://nodexi.org"&gt;&lt;img src="https://img.shields.io/badge/Nodexi%20Agentics-nodexi.org-6C63FF?style=flat-square&logo=rocket&logoColor=white"/&gt;&lt;/a&gt;
-  &lt;a href="mailto:fudan@drluo.cn"&gt;&lt;img src="https://img.shields.io/badge/Email-fudan%40drluo.cn-EA4335?style=flat-square&logo=gmail&logoColor=white"/&gt;&lt;/a&gt;
-  &lt;a href="https://my.drluo.cn"&gt;&lt;img src="https://img.shields.io/badge/Homepage-my.drluo.cn-4285F4?style=flat-square&logo=google-chrome&logoColor=white"/&gt;&lt;/a&gt;
-  &lt;a href="https://scholar.google.com/citations?user=KU8R00YAAAAJ&hl=zh-CN"&gt;&lt;img src="https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat-square&logo=google-scholar&logoColor=white"/&gt;&lt;/a&gt;
-  &lt;img src="https://komarev.com/ghpvc/?username=kuangren777&style=flat-square&color=6C63FF" alt="Profile Views"/&gt;
-&lt;/p&gt;
+<p align="center">
+  <a href="https://nodexi.org"><img src="https://img.shields.io/badge/Nodexi%20Agentics-nodexi.org-6C63FF?style=flat-square&logo=rocket&logoColor=white"/></a>
+  <a href="mailto:fudan@drluo.cn"><img src="https://img.shields.io/badge/Email-fudan%40drluo.cn-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://my.drluo.cn"><img src="https://img.shields.io/badge/Homepage-my.drluo.cn-4285F4?style=flat-square&logo=google-chrome&logoColor=white"/></a>
+  <a href="https://scholar.google.com/citations?user=KU8R00YAAAAJ&hl=zh-CN"><img src="https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat-square&logo=google-scholar&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=kuangren777&style=flat-square&color=6C63FF" alt="Profile Views"/>
+</p>
 
 ---
 
@@ -72,11 +72,11 @@ Everything I research, I also ship. The agent infrastructure below runs my own d
 
 ---
 
-&lt;p align="center"&gt;
-  &lt;img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kuangren777&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/&gt;
-  &lt;img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kuangren777&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/&gt;
-&lt;/p&gt;
+<p align="center">
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kuangren777&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kuangren777&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+</p>
 
-&lt;p align="center"&gt;
-  &lt;img src="https://streak-stats.demolab.com?user=kuangren777&theme=tokyonight&hide_border=true" alt="GitHub Streak"/&gt;
-&lt;/p&gt;
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kuangren777&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>

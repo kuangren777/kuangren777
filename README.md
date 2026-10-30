@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=640&lines=Hi+There!+%F0%9F%91%8B;I'm+Mingyu+Luo;PhD+Student+%40+Fudan+University;Founder+%40+Nodexi+Agentics%2C+LLC;LLM+%26+Agent+Security+Researcher;Building+General+%26+Safe+Agentic+Intelligence" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=640&lines=Hi+There!+%F0%9F%91%8B;I'm+Mingyu+Luo;Founder+%40+Nodexi+Agentics%2C+LLC;LLM+%26+Agent+Security+Researcher;Building+General+%26+Safe+Agentic+Intelligence" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 ---
 
-Founder of **Nodexi Agentics, LLC** — an agentic-intelligence research company building agents that are *general* and *safe* at the same time. PhD student at **Fudan University**, visiting student at **HKUST**. I study how to break and defend LLM-based agents — tool-invocation security, response-path integrity, post-alignment tampering, and endogenous safety mechanisms. A second line of work asks whether our *measurements* of AI safety actually measure what we claim: scoring polarity, confidence intervals for ratio metrics, and budget-matched comparisons.
+Founder of **Nodexi Agentics, LLC** — an agentic-intelligence research company building agents that are *general* and *safe* at the same time. Visiting student at **HKUST**. I study how to break and defend LLM-based agents — tool-invocation security, response-path integrity, post-alignment tampering, and endogenous safety mechanisms. A second line of work asks whether our *measurements* of AI safety actually measure what we claim: scoring polarity, confidence intervals for ratio metrics, and budget-matched comparisons.
 
 Everything I research, I also ship. The agent infrastructure below runs my own daily workflow — multi-model orchestration, capability-scoped tool execution, and sandboxed agent runtimes.
 
